@@ -1,0 +1,77 @@
+{
+"appName":"Kartek Teknoloji",
+"close":"Kapat",
+"success":"Başarılı",
+"success.text":"İşlem Başarı ile gerçekleşti",
+"update.text":"Etkinlik güncellendi",
+"required.text": "Lütfen zorunlu alanları doldurun",
+
+
+  "login":"Giriş Yap",
+  "introduce":"XXXXXX dünyasına",
+  "welcome":"hoşgeldin!",
+  "hi":"Merhaba",
+  "register":"Kayıt Ol",
+  "register.check":"Hesabın yok mu?",
+  "login.check":"Hesabın var mı?",
+  "reset.password":"Şifremi Güncelle",
+  "email" : "Email",
+  "password":"Şifre",
+  "password.again":"Şifre tekrarı",
+  "re.password":"Şifreni mi Unuttun?",
+  "re.password.text":"Şifresini güncellemek\n istediğin email adresini gir",
+   "login.v2":"Giriş Yap!",
+
+  "login.error.title":"Hesap bulunamadı",
+  "login.error":"Bu emaile ait kayıtlı bir kullanıcı bulunamadı",
+
+  "password.val.check":"Şifre ve Şifre tekrarı aynı olmalı",
+  "password.val.check.title":"Şifreler eşleşmiyor",
+  "register.error.title":"Hata oluştu",
+  "register.error":"Kayıt işlemi gerçekleştirilemedi",
+  "val.error.title":"Hata",
+  "val.error":"Lütfen zorunlu alanları doldurun",
+  "register.succes.title":"Başarılı",
+  "register.succes":"Kayıt işlemi gerçekleştirildi",
+
+
+  "unavailable" :"Erişilemez",
+  "unavailable.text":"Bu alan şuanda aktif değil",
+"error":"İşlem gerçekleştirilemedi",
+  "already.account" :"Bu maile ait kayıtlı bir hesabınız bulunmakta",
+
+
+
+   "agreement.1":"Kişisel verileriniz ",
+   "agreement.2":"Aydınlatma Metni ",
+   "agreement.3":"kapsamında işlenmektedir. ",
+   "agreement.4":"'KayıtOl'",
+   "agreement.5":"butonuna basarak ",
+   "agreement.6":"Üyelik Sözleşmesi",
+   "agreement.7":"'ni okuduğunuzu ve kabul ettiğinizi ",
+   "agreement.8":"onaylıyorsunuz",
+
+"all.events":"Tüm Etkinlikler",
+
+   "event.title":"Tüm Etkinlikler",
+   "desc":"Açıklama",
+   "upgrade":"Güncelle",
+   "calendar.add":"Takvime Ekle",
+
+
+   "title" : "Başlık",
+   "event":"Etkinlik türü",
+   "date":"Tarih",
+   "place":"Konum",
+   "price":"Bilet tutarı",
+   "phone.number":"Telefon numarası",
+   "address":"Etkinlik adresi",
+ "img":"Resim Url",
+
+ "name":"isim",
+ "surname":"Soyisim",
+ "birthDay":"Doğum Tarihi",
+ "address.profile":"Adres",
+ 
+"edit.profile.screen":"Profili Güncelle"
+}

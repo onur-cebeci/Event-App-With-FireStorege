@@ -1,0 +1,77 @@
+{
+"appName":"Kartek Teknoloji",
+"close":"Lorem Lipsum",
+"success":"Lorem Lipsum",
+"success.text":"Lorem Lipsum",
+"update.text":"Lorem Lipsum",
+"required.text": "Lorem Lipsum",
+
+
+  "login":"Lorem Lipsum",
+  "introduce":"Lorem Lipsum",
+  "welcome":"Lorem Lipsum",
+  "hi":"Lorem Lipsum",
+  "register":"Lorem Lipsum",
+  "register.check":"Lorem Lipsum",
+  "login.check":"Lorem Lipsum",
+  "reset.password":"Lorem Lipsum",
+  "email" : "Lorem Lipsum",
+  "password":"Lorem Lipsum",
+  "password.again":"Lorem Lipsum",
+  "re.password":"Lorem Lipsum",
+  "re.password.text":"Lorem Lipsum",
+   "login.v2":"Lorem Lipsum",
+
+  "login.error.title":"Lorem Lipsum",
+  "login.error":"Lorem Lipsum",
+
+  "password.val.check":"Lorem Lipsum",
+  "password.val.check.title":"Lorem Lipsum",
+  "register.error.title":"Lorem Lipsum",
+  "register.error":"Lorem Lipsum",
+  "val.error.title":"Lorem Lipsum",
+  "val.error":"Lorem Lipsum",
+  "register.succes.title":"Lorem Lipsum",
+  "register.succes":"Lorem Lipsum",
+
+
+  "unavailable" :"Lorem Lipsum",
+  "unavailable.text":"Lorem Lipsum",
+"error":"Lorem Lipsum",
+  "already.account" :"Lorem Lipsum",
+
+
+
+   "agreement.1":"Lorem Lipsum",
+   "agreement.2":"Lorem Lipsum",
+   "agreement.3":"Lorem Lipsum",
+   "agreement.4":"Lorem Lipsum",
+   "agreement.5":"Lorem Lipsum",
+   "agreement.6":"Lorem Lipsum",
+   "agreement.7":"Lorem Lipsum",
+   "agreement.8":"Lorem Lipsum",
+
+"all.events":"Lorem Lipsum",
+
+   "event.title":"Lorem Lipsum",
+   "desc":"Lorem Lipsum",
+   "upgrade":"Lorem Lipsum",
+   "calendar.add":"Lorem Lipsum",
+
+
+   "title" : "Lorem Lipsum",
+   "event":"Lorem Lipsum",
+   "date":"Lorem Lipsum",
+   "place":"Lorem Lipsum",
+   "price":"Lorem Lipsum",
+   "phone.number":"Lorem Lipsum",
+   "address":"Lorem Lipsum",
+ "img":"Lorem Lipsum",
+
+ "name":"Lorem Lipsum",
+ "surname":"Lorem Lipsum",
+ "birthDay":"Lorem Lipsum",
+ "address.profile":"Lorem Lipsum",
+ 
+"edit.profile.screen":"Lorem Lipsum"
+}

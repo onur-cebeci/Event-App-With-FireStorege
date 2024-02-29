@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341835447393",
+    "project_id": "kartek-demo",
+    "storage_bucket": "kartek-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341835447393:android:68e639fd3424634f1b3e20",
+        "android_client_info": {
+          "package_name": "com.example.kartek_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoMGmooyHq2sqYp2SJwJRfpZ9FY_iNi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
