@@ -1,4 +1,4 @@
-# kartek_demo
+# Event app with Firestore
 
 A new Flutter project.
 
