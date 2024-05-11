@@ -68,7 +68,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Kartek Teknoloji Demo',
+        title: 'Event App',
         debugShowCheckedModeBanner: false,
         theme: CustomThemeData.customLightTheme,
         localizationsDelegates: context.localizationDelegates,
